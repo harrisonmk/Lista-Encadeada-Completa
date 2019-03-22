@@ -1,6 +1,6 @@
 # Lista-Encadeada-Completa
 
-Feito para a Disciplina Estrutura de DAdos
+Feito para a Disciplina Estrutura de Dados
 
 
 a lista contem os metodos
